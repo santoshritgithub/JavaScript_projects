@@ -1,0 +1,29 @@
+.buttons{
+    display: inline-flex;
+    gap: 30px;
+    /* height: 50px;
+    width: 60px; */
+}
+.button{
+    height: 6rem;
+    width: 9rem;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: rgb(255, 254, 254);
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
